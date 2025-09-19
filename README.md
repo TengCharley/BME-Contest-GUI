@@ -1,1 +1,1 @@
-# -
+BME Contest GUI Representation
